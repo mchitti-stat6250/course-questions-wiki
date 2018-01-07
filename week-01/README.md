@@ -409,3 +409,6 @@ other persons."
 - Answer (ilankham−stat6250): It depends on how you learn best. I personally prefer to run everything for practice.
 - Question (akumar30-stat6250): How to get good understanding of SAS User Interface ?
 - Answer (ilankham−stat6250): Trial and error, per a growth mindset.
+
+-Question (mchitti-stat6250): In the team project Instructions i have seen various learning outcomes and various online data sources,what is the deadline for each Learning objective ,and how can we form teams
+
